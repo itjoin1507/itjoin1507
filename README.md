@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itjoin1507
 - 👀 I’m interested in Rust, Tauri and TypeScript.
-- 🌱 I’m currently learning Rust and 
+- 🌱 I’m currently learning Rust, Tauri and TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me X's account @septum128.
 
